@@ -1,0 +1,20 @@
+
+a{
+    color: #fff;
+    text-decoration: none;
+
+}
+
+body{
+    background-color: blue;
+    color: #fff;
+    font-size: 18px;
+}
+main{
+    background-color: red;
+
+}
+
+.esquisito{
+    background-color: green;
+}
